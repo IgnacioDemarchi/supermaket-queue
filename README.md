@@ -1,2 +1,2 @@
-# supermaket-queue
-This is part of a challenge as a applicant for the Creative Coefficient Company
+# supermarket-queue
+This is part of a challenge as an applicant for the Creative Coefficient Company.
